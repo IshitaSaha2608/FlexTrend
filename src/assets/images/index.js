@@ -172,7 +172,7 @@ import spfOne from "./products/specialOffer/spfOne.webp";
 import spfTwo from "./products/specialOffer/spfTwo.webp";
 import spfThree from "./products/specialOffer/spfThree.webp";
 import spfFour from "./products/specialOffer/spfFour.webp";
-import shoe5 from "./products/specialOffer/shoe5p";
+
 import shoe6 from "./products/specialOffer/shoe6.webp";
 import shoe8 from "./products/specialOffer/shoe8.webp";
 
@@ -318,7 +318,7 @@ export {
   cosmetic4,
   cosmetic6,
   cosmetic9,
-  cosmetic12,
+  
   cosmetic13,
   cosmetic14,
   cosmetic20,
