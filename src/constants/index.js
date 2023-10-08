@@ -107,7 +107,7 @@ export const paginationItems = [
   },
   {
     _id: 1003,
-    img: spfThree,
+    img: cosmetic3,
     productName: "Headphones",
     price: "25.00",
     color: "Mixed",
@@ -125,7 +125,7 @@ export const paginationItems = [
   },
   {
     _id: 1005,
-    img: bestSellerOne,
+    img: bodycare21,
     productName: "Flower Base",
     price: "35.00",
     color: "Blank and White",
@@ -143,7 +143,7 @@ export const paginationItems = [
   },
   {
     _id: 1007,
-    img: bestSellerThree,
+    img: jewel31,
     productName: "Household materials",
     price: "25.00",
     color: "Mixed",
@@ -170,7 +170,7 @@ export const paginationItems = [
   },
   {
     _id: 1010,
-    img: newArrTwo,
+    img: home18,
     productName: "Smart Watch",
     price: "250.00",
     color: "Black",
@@ -179,7 +179,7 @@ export const paginationItems = [
   },
   {
     _id: 1011,
-    img: newArrThree,
+    img: fashion13,
     productName: "cloth Basket",
     price: "80.00",
     color: "Mixed",
@@ -197,7 +197,7 @@ export const paginationItems = [
   },
   {
     _id: 1013,
-    img: newArrTwo,
+    img: shoe7,
     productName: "Funny toys for babies",
     price: "60.00",
     color: "Mixed",
@@ -207,7 +207,7 @@ export const paginationItems = [
 
   {
     _id: 1014,
-    img: newArrTwo,
+    img: cosmetic34,
     productName: "Smart Watch",
     price: "250.00",
     color: "Black",
@@ -225,7 +225,7 @@ export const paginationItems = [
   },
   {
     _id: 1016,
-    img: newArrTwo,
+    img: fashion12,
     productName: "Smart Watch",
     price: "250.00",
     color: "Black",
@@ -234,7 +234,7 @@ export const paginationItems = [
   },
   {
     _id: 1017,
-    img: bestSellerFour,
+    img: Elec22,
     productName: "Travel Bag",
     price: "220.00",
     color: "Black",
@@ -243,7 +243,7 @@ export const paginationItems = [
   },
   {
     _id: 1018,
-    img: newArrOne,
+    img: shoe23,
     productName: "Round Table Clock",
     price: "44.00",
     color: "Black",
@@ -252,7 +252,7 @@ export const paginationItems = [
   },
   {
     _id: 1019,
-    img: newArrTwo,
+    img: jewel10,
     productName: "Smart Watch",
     price: "250.00",
     color: "Black",
@@ -261,7 +261,7 @@ export const paginationItems = [
   },
   {
     _id: 1020,
-    img: newArrThree,
+    img: jewel5,
     productName: "cloth Basket",
     price: "80.00",
     color: "Mixed",
@@ -270,7 +270,7 @@ export const paginationItems = [
   },
   {
     _id: 1021,
-    img: spfThree,
+    img: bodycare26,
     productName: "Headphones",
     price: "25.00",
     color: "Mixed",
@@ -279,7 +279,7 @@ export const paginationItems = [
   },
   {
     _id: 1022,
-    img: spfFour,
+    img: skincare19,
     productName: "Sun glasses",
     price: "220.00",
     color: "Black",
@@ -288,7 +288,7 @@ export const paginationItems = [
   },
   {
     _id: 1023,
-    img: bestSellerOne,
+    img: home6,
     productName: "Flower Base",
     price: "35.00",
     color: "Blank and White",
@@ -297,7 +297,7 @@ export const paginationItems = [
   },
   {
     _id: 1024,
-    img: spfOne,
+    img: shoe4,
     productName: "Cap for Boys",
     price: "35.00",
     color: "Blank and White",
@@ -306,7 +306,7 @@ export const paginationItems = [
   },
   {
     _id: 1025,
-    img: spfTwo,
+    img: cosmetic36,
     productName: "Tea Table",
     price: "180.00",
     color: "Gray",
